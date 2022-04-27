@@ -10,3 +10,5 @@ eleventyNavigation:
 # Welcome
 
 Still working here. 
+Anyway, don't expect too much.
+This is a family website, used for email addresses!
